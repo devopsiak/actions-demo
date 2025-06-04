@@ -1,2 +1,2 @@
 # actions-demo
-Krotki opis projektu.
+Testowanie wyzwalacza pull request
